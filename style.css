@@ -32,6 +32,10 @@ p {
     line-height: 1.6em; 
 }
 
+img {
+    border-radius: 10px;
+}
+
 #blog {
     border-top: 5px dotted #fff;
 }
@@ -53,6 +57,7 @@ table {
 tr, th {
     border: 1px solid #242424;
     padding: 10px;
+    line-height: 1.2em;
 }
 
 th, td {
