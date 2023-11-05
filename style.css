@@ -21,7 +21,17 @@ h2 {
 }
 
 h3 {
+    font-size: 1.5em;
+}
+
+address {
     font-size: 1em;
+    font-style: italic;
+}
+
+time {
+    font-size: 1em;
+    font-style: italic;
 }
 
 article {
@@ -35,7 +45,7 @@ p {
 
 img {
     border-radius: 10px;
-    max-width: 50%;
+    max-width: 25%;
     height: auto;
 }
 
@@ -50,6 +60,7 @@ img {
 .sticky {
     position: sticky;
     top: 0;
+    font-style: italic;
 }
 
 table {
