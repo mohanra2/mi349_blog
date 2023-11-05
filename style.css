@@ -52,6 +52,7 @@ table {
 
 tr, th {
     border: 1px solid #242424;
+    padding: 10px;
 }
 
 th, td {
