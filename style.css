@@ -21,10 +21,10 @@ p {
 }
 
 #blog {
-    border-top: 3px dotted #fff;
+    border-top: 6px dotted #fff;
 }
 
 .blog_post {
-
+    border-bottom: 6px dotted #fff;
 }
 
