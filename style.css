@@ -51,6 +51,11 @@ img {
     border-radius: 10px;
     max-width: 20%;
     height: auto;
+    float: left;
+}
+
+.caption {
+    font-size: 1em;
 }
 
 #blog {
