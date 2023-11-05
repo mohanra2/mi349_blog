@@ -21,10 +21,14 @@ p {
 }
 
 #blog {
-    border-top: 6px dotted #fff;
+    border-top: 5px dotted #fff;
 }
 
 .blog_post {
-    border-bottom: 6px dotted #fff;
+    border-bottom: 5px dotted #fff;
 }
 
+.sticky {
+    position: sticky;
+    top: 0;
+}
