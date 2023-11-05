@@ -16,6 +16,14 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
 article {
     background-color: bisque;
 }
@@ -36,5 +44,22 @@ p {
     position: sticky;
     top: 0;
 }
+
+table {
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+}
+
+tr, th {
+    border: 1px solid #242424;
+}
+
+th, td {
+    border: 1px dotted black;
+}
+
+
+
+
 
 
