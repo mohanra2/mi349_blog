@@ -56,6 +56,8 @@ img {
 
 .caption {
     font-size: 1em;
+    float: left;
+    vertical-align: top;
 }
 
 #blog {
