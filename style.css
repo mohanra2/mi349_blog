@@ -1,8 +1,13 @@
+html {
+    background: #fff;
+}
+
 body {
     background-color: antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 40px;
     color: #242424;
+    border-top: 10 px solid #242424;
 }
 
 h1 {
