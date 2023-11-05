@@ -16,6 +16,10 @@ h1 {
     margin: 0;
 }
 
+article {
+    background-color: bisque;
+}
+
 p {
     line-height: 1.6em; 
 }
@@ -32,3 +36,5 @@ p {
     position: sticky;
     top: 0;
 }
+
+
