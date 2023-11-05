@@ -16,6 +16,10 @@ h1 {
     margin: 0;
 }
 
+nav {
+    position: sticky;
+}
+
 h2 {
     font-size: 2em;
 }
@@ -79,6 +83,15 @@ th, td {
     padding: 10px;
     line-height: 1.2em;
 }
+
+label {
+    line-height: 1.2em;
+}
+
+option {
+    line-height: 1.2em;
+}
+
 
 
 
