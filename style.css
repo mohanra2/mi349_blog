@@ -18,6 +18,8 @@ h1 {
 
 header {
     background-color: blanchedalmond;
+    border: 10px;
+    border-color: bisque;
 }
 
 nav {
