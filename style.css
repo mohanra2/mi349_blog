@@ -57,6 +57,9 @@ time {
 article {
     padding: 30px;
     background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 p {
